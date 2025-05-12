@@ -1,5 +1,5 @@
-### Hi there, I'm Gabriel. I'm a programming student and a future developer. I'm quite focused on data analysis.
-- 🌱 I’m currently learning JavaScript, Python and R.
+### Hi there, I'm Gabriel. I'm a programming student and a future developer. I'm quite focused on data analysis and to be a fullstack developer.
+- 🌱 I’m currently learning React, Python and R.
 - 😄 Pronouns: he/him
 
 <div style="display: inline_block"><br>

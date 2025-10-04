@@ -1,5 +1,5 @@
 ### Hi there, I'm Gabriel. I'm a Software Engineer student and a future developer. I'm quite focused on Linux, Cybersecurity and fullstack development.
-- 🌱 I’m currently learning React, Python and R.
+- 🌱 I’m currently learning React, Python C and PHP.
 - 😄 Pronouns: he/him
 
 <div style="display: inline_block"><br>

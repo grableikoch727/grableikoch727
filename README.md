@@ -1,4 +1,4 @@
-### Hi there, I'm Gabriel. I'm a Software Engineer student and a future developer. I'm quite focused on data analysis and to be a fullstack developer.
+### Hi there, I'm Gabriel. I'm a Software Engineer student and a future developer. I'm quite focused on Linux, Cybersecurity and fullstack development.
 - 🌱 I’m currently learning React, Python and R.
 - 😄 Pronouns: he/him
 
